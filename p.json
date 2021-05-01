@@ -1,0 +1,30 @@
+[
+  {
+    "Doctor Name":"Raju" ,
+    "Specialization": "Pulmonologist",
+    
+    
+  },
+  {
+    "Doctor Name": "Arun",
+    "Specialization": "General Surgeon",
+   
+   
+  },
+  {
+    "Doctor Name": "Naveen",
+    "Specialization": "Pediatrician",
+  
+  },
+  {
+    "Doctor Name": "Jack",
+    "Specialization": "Cardiologist",
+    
+  },
+  {
+    
+    "Doctor Name": "Joel",
+    "Specialization": "Dentist",
+    
+  }
+]
